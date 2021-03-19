@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IMDB 2021 Oscar Nominations>
+	<movie>
+		<id>01</id>
+		<title> The Father </title>
+		<nomination-category> Best Picture, Film Editing, Production Design, Writing (adated screenplay) </nomination-category>
+		<director> Florian Zeller</director>
+		<genres> Drama </genres>
+		<imdb-rating> 8.1 </imdb-rating>
+		<url> https://www.imdb.com/title/tt10272386/?ref_=nv_sr_srsg_0 </url>
+	</movie>
+	
+	<movie>
+		<id> 02 </id>
+		<title> JUDAS AND THE BLACK MESSIAH </title>
+		<nomination-category> Best Picture, Writing (original screenplay), Cinematography </nomination-category>
+		<director> Shaka King </director>
+		<genres> Biography, Drama, History </genres>
+		<imdb-rating> 7.7 </imdb-rating>
+		<url> https://www.imdb.com/title/tt9784798/?ref_=nv_sr_srsg_0</url>
+	</movie>
+	
+	<movie>
+		<id> 03 </id>
+		<title> MANK </title>
+		<nomination-category> Best Picture, Directing, Cinematography, Costume Design, Makeup and Hairstyling, Music (original score),     Production Design, Sound </nomination-category>
+		<director> David Fincher </director>
+		<genres> Biography, Comedy, Drama </genres>
+		<imdb-rating> 7.0 </imdb-rating>
+		<url> https://www.imdb.com/title/tt10618286/?ref_=nv_sr_srsg_0 </url>
+	</movie>
+	
+	<movie>
+		<id> 04 </id>
+		<title> MINARI </title>
+		<nomination-category> Best Picture, Directing, Music (original score), Writing (original screenplay) </nomination-category>
+		<director> Lee Isaac Chung </director>
+		<genres> Drama </genres>
+		<imdb-rating> 7.7 </imdb-rating>
+		<url> https://www.imdb.com/title/tt10633456/?ref_=nv_sr_srsg_0 </url>
+	</movie>
+	
+	<movie>
+		<id> 05 </id>
+		<title> NOMADLAND </title>
+		<nomination-category> Best Picture, Directing, Cinematography, Film Editing, Writing (adated screenplay) </nomination-category>
+		<director> Chloe Zhao </director>
+		<genres> Drama </genres>
+		<imdb-rating> 7.6 </imdb-rating>
+		<url> https://www.imdb.com/title/tt9770150/?ref_=nv_sr_srsg_0 </url>
+	</movie>
+	
+	<movie>
+		<id> 06 </id>
+		<title> PROMISING YOUNG WOMAN </title>
+		<nomination-category> Best Picture, Directing, Film Editing, Writing (original screenplay) </nomination-category>
+		<director> Emerald Fennell </director>
+		<genres> Crime, Drama, Thriller </genres>
+		<imdb-rating> 7.5 </imdb-rating>
+		<url> https://www.imdb.com/title/tt9620292/?ref_=nv_sr_srsg_0 </url>
+	</movie>
+	
+	<movie>
+		<id> 07 </id>
+		<title> SOUND OF METAL </title>
+		<nomination-category> Best Picture, Film Editing, Sound, Writing (original screenplay) </nomination-category>
+		<director> Darius Marder </director>
+		<genres> Drama, Music </genres>
+		<imdb-rating> 7.8 </imdb-rating>
+		<url> https://www.imdb.com/title/tt5363618/?ref_=nv_sr_srsg_0 </url>
+	</movie>
+	
+	<movie>
+		<id> 08 </id>
+		<title> THE TRIAL OF THE CHICAGO 7 </title>
+		<nomination-category> Best Picture, Cinematography, Film Editing, Writing (original screenplay) </nomination-category>
+		<director> Aaron Sorkin </director>
+		<genres> Drama, History, Thriller </genres>
+		<imdb-rating> 7.8 </imdb-rating>
+		<url> https://www.imdb.com/title/tt1070874/?ref_=nv_sr_srsg_0 </url>
+	</movie>
+	
+	<movie>
+		<id> 09 </id>
+		<title> ANOTHER ROUND </title>
+		<nomination-category> International Feature Film, Directing </nomination-category>
+		<director> Thomas Vinterberg </director>
+		<genres> Comedy, Drama </genres>
+		<imdb-rating> 7.8 </imdb-rating>
+		<url> https://www.imdb.com/title/tt10288566/?ref_=nv_sr_srsg_0 </url>
+	</movie>
+	
+	<movie>
+		<id> 10 </id>
+		<title> BETTER DAYS </title>
+		<nomination-category> International Feature Film </nomination-category>
+		<director> Derek Tsang </director>
+		<genres> Crime, Drama, Family </genres>
+		<imdb-rating> 7.6 </imdb-rating>
+		<url> https://www.imdb.com/title/tt9586294/?ref_=nv_sr_srsg_0 </url>
+	</movie>
+	
+	<movie>
+		<id> 11 </id>
+		<title> COLLECTIVE </title>
+		<nomination-category> International Feature Film, Documentary (feature) </nomination-category>
+		<director> Alexander Nanau </director>
+		<genres> Documentary, Drama </genres>
+		<imdb-rating> 8.4 </imdb-rating>
+		<url> https://www.imdb.com/title/tt10706602/?ref_=fn_al_tt_1 </url>
+	</movie>
+	
+	<movie>
+		<id> 12 </id>
+		<title> THE MAN WHO SOLD HIS SKIN </title>
+		<nomination-category> International Feature Film </nomination-category>
+		<director> Kaouther Ben Hania </director>
+		<genres> Drama </genres>
+		<imdb-rating> 7.3 </imdb-rating>
+		<url> https://www.imdb.com/title/tt10360862/?ref_=nv_sr_srsg_0 </url>
+	</movie>
+	
+	<movie>
+		<id> 13 </id>
+		<title> QUO VADIS, AIDA? </title>
+		<nomination-category> International Feature Film </nomination-category>
+		<director> Jasmila Zbanic </director>
+		<genres> Drama, History, War </genres>
+		<imdb-rating> 7.3 </imdb-rating>
+		<url> https://www.imdb.com/title/tt8633462/?ref_=nv_sr_srsg_0 </url>
+	</movie>
+	
+	<movie>
+		<id> 14 </id>
+		<title> NEWS OF THE WORLD </title>
+		<nomination-category> Cinematography, Music (original score), Production Design </nomination-category>
+		<director> Paul Greengrass </director>
+		<genres> Action, Adventure, Drama </genres>
+		<imdb-rating> 6.8 </imdb-rating>
+		<url> https://www.imdb.com/title/tt6878306/?ref_=nv_sr_srsg_0 </url>
+	</movie>
+	
+	<movie>
+		<id> 15 </id>
+		<title> SOUL </title>
+		<nomination-category> Animated Feature Film, Music (original score), Sound</nomination-category>
+		<director> Pete Docter </director>
+		<genres> Animation, Adventure, Comedy </genres>
+		<imdb-rating> 8.1 </imdb-rating>
+		<url> https://www.imdb.com/title/tt2948372/?ref_=nv_sr_srsg_0 </url>
+	</movie>
+	
+	<movie>
+		<id> 16 </id>
+		<title> TENET </title>
+		<nomination-category> Production Design, Visual Effects </nomination-category>
+		<director> Christopher Nolan </director>
+		<genres> Action, Sci-Fi, Thriller </genres>
+		<imdb-rating> 7.5 </imdb-rating>
+		<url> https://www.imdb.com/title/tt6723592/?ref_=nv_sr_srsg_0 </url>
+	</movie>
+	
+	<movie>
+		<id> 17 </id>
+		<title> LOVE AND MONSTERS </title>
+		<nomination-category> Visual Effects </nomination-category>
+		<director> Michael Matthews </director>
+		<genres> Action, Adventure, Comedy </genres>
+		<imdb-rating> 7.0 </imdb-rating>
+		<url> https://www.imdb.com/title/tt2222042/?ref_=nv_sr_srsg_0 </url>
+	</movie>
+	
+	<movie>
+		<id> 18 </id>
+		<title> ONWARD </title>
+		<nomination-category> Animated Feature Film </nomination-category>
+		<director> Dan Scolan </director>
+		<genres> Animation, Adventure, Comedy </genres>
+		<imdb-rating> 7.4 </imdb-rating>
+		<url> https://www.imdb.com/title/tt7146812/?ref_=nv_sr_srsg_0 </url>
+	</movie>
+	
+	<movie>
+		<id> 19 </id>
+		<title> OVER THE MOON </title>
+		<nomination-category> Animated Feature Film </nomination-category>
+		<director> Glen Keane, John Kahrs </director>
+		<genres> Animation, Adventure, Comedy </genres>
+		<imdb-rating> 6.5 </imdb-rating>
+		<url> https://www.imdb.com/title/tt7488208/?ref_=nv_sr_srsg_0 </url>
+	</movie>
+	
+		<movie>
+		<id> 20 </id>
+		<title> WOLFWALKERS </title>
+		<nomination-category> Animated Feature Film </nomination-category>
+		<director> Tomm Moore, Ross Stewart </director>
+		<genres> Animation, Adventure, Family </genres>
+		<imdb-rating> 8.1 </imdb-rating>
+		<url> https://www.imdb.com/title/tt5198068/?ref_=nv_sr_srsg_0 </url>
+	</movie>
