@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="urn:webprotege:ontology:73ee1796-1592-4765-b8c0-200862554be7#"
+     xml:base="urn:webprotege:ontology:73ee1796-1592-4765-b8c0-200862554be7"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:webprotege="http://webprotege.stanford.edu/">
+    <owl:Ontology rdf:about="urn:webprotege:ontology:73ee1796-1592-4765-b8c0-200862554be7"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBNp6nNtrdv5cEFTVby9pWA -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RBNp6nNtrdv5cEFTVby9pWA">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/R8yk62JJm2UWIUhGd3Kg2hO"/>
+        <rdfs:range rdf:resource="http://webprotege.stanford.edu/R9sfvcG1twssPZW97FvO6Nf"/>
+        <rdfs:label xml:lang="en-us">Coaches</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.w3.org/2002/07/owl#topObjectProperty -->
+
+    <owl:ObjectProperty rdf:about="http://www.w3.org/2002/07/owl#topObjectProperty">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/RQ8hZiotgMktUAc66ELKbs"/>
+        <rdfs:range rdf:resource="http://webprotege.stanford.edu/R9sfvcG1twssPZW97FvO6Nf"/>
+        <rdfs:label xml:lang="en-us">Play</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7xBcNCaseYKoLL9v1iPUM0 -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R7xBcNCaseYKoLL9v1iPUM0">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/RQ8hZiotgMktUAc66ELKbs"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+        <rdfs:label xml:lang="en-us">Uniform number</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rh3O8VxqkJ5SC1MTQg2VOP -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/Rh3O8VxqkJ5SC1MTQg2VOP">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/R8evN5e9MgbhPyT4x7c9aYM"/>
+        <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"/>
+        <rdfs:label xml:lang="en-us">Name</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R5WTdmgHU9fUcJ9DbuotDv -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R5WTdmgHU9fUcJ9DbuotDv">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9sfvcG1twssPZW97FvO6Nf"/>
+        <rdfs:label xml:lang="en-us">Fb</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8evN5e9MgbhPyT4x7c9aYM -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8evN5e9MgbhPyT4x7c9aYM">
+        <rdfs:label xml:lang="en-us">Person</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8yk62JJm2UWIUhGd3Kg2hO -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8yk62JJm2UWIUhGd3Kg2hO">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8evN5e9MgbhPyT4x7c9aYM"/>
+        <rdfs:label xml:lang="en-us">Coach</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9sfvcG1twssPZW97FvO6Nf -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9sfvcG1twssPZW97FvO6Nf">
+        <rdfs:label xml:lang="en-us">Team</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBVeGqJIv5XFWwIxlPQd8JB -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBVeGqJIv5XFWwIxlPQd8JB">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9sfvcG1twssPZW97FvO6Nf"/>
+        <rdfs:label xml:lang="en-us">Bjk</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RQ8hZiotgMktUAc66ELKbs -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RQ8hZiotgMktUAc66ELKbs">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8evN5e9MgbhPyT4x7c9aYM"/>
+        <rdfs:label xml:lang="en-us">Player</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R831yYjw0bCZY4ba41y0vDs -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R831yYjw0bCZY4ba41y0vDs">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RQ8hZiotgMktUAc66ELKbs"/>
+        <webprotege:R7xBcNCaseYKoLL9v1iPUM0 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</webprotege:R7xBcNCaseYKoLL9v1iPUM0>
+        <webprotege:Rh3O8VxqkJ5SC1MTQg2VOP rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Papiss Cisse</webprotege:Rh3O8VxqkJ5SC1MTQg2VOP>
+        <rdfs:label xml:lang="en-us">Player2</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9JSpBzGdaDDHia99c44iW7 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9JSpBzGdaDDHia99c44iW7">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8yk62JJm2UWIUhGd3Kg2hO"/>
+        <webprotege:Rh3O8VxqkJ5SC1MTQg2VOP rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Emre Belozoglu</webprotege:Rh3O8VxqkJ5SC1MTQg2VOP>
+        <rdfs:label xml:lang="en-us">Coach1</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBOdLmvDtoxMIX6SoOq8DCQ -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBOdLmvDtoxMIX6SoOq8DCQ">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RQ8hZiotgMktUAc66ELKbs"/>
+        <webprotege:R7xBcNCaseYKoLL9v1iPUM0 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</webprotege:R7xBcNCaseYKoLL9v1iPUM0>
+        <webprotege:Rh3O8VxqkJ5SC1MTQg2VOP rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Necip Uysal</webprotege:Rh3O8VxqkJ5SC1MTQg2VOP>
+        <rdfs:label xml:lang="en-us">Player1</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCp94x8stA6YAqcNHUtV2qm -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCp94x8stA6YAqcNHUtV2qm">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8yk62JJm2UWIUhGd3Kg2hO"/>
+        <webprotege:Rh3O8VxqkJ5SC1MTQg2VOP rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sergen Yalcın</webprotege:Rh3O8VxqkJ5SC1MTQg2VOP>
+        <rdfs:label xml:lang="en-us">Coach2</rdfs:label>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.13) https://github.com/owlcs/owlapi -->
+
